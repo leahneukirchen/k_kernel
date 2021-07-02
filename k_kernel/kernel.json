@@ -1,0 +1,9 @@
+{
+    "argv": ["python",
+             "-m", "k_kernel",
+             "-f", "{connection_file}"],
+    "display_name": "k",
+    "mimetype": "text/x-k",
+    "language": "k",
+    "name": "k"
+}
